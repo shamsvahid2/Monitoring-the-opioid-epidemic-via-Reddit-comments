@@ -13,7 +13,7 @@ The results are as follows:
 
 (for interactive plots, please download .html files from the results' folder)
 
-**Interpreting results of phase spaces:**
+## Interpreting results of phase spaces:
 We use taken's embedding theorem to reconstruct the phase space; for example see the following phase spaces (oxycodone 2019 and 2021):
 
 1. 2019:
